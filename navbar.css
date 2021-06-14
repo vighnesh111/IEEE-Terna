@@ -1,0 +1,20 @@
+.navbar
+{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    background: rgba(0,0,0,0.0)!important;
+}
+.navbar-brand img
+{
+    height: 2.5rem;
+}
+.navbar-nav li
+{
+    padding-right: 0.7rem;
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color: white;
+}
